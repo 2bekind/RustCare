@@ -1,1 +1,1 @@
-# RustCare`n`nПубличные релизы RustCare для Windows.`n
+# RustCare Публичные релизы RustCare для Windows.
